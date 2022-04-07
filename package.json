@@ -1,0 +1,38 @@
+{
+  "name": "vue-use-business",
+  "version": "1.0.0",
+  "description": "Vue Composition API 的一些偏业务hooks",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "test",
+    "dev": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chunjin666/vue-use-business.git"
+  },
+  "keywords": [
+    "Vue",
+    "Composition",
+    "API",
+    "hooks",
+    "business"
+  ],
+  "author": "chunjin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chunjin666/vue-use-business/issues"
+  },
+  "homepage": "https://github.com/chunjin666/vue-use-business#readme",
+  "devDependencies": {
+    "@types/lodash-es": "^4.17.6",
+    "async-validator": "^4.0.7",
+    "element-plus": "^2.1.8"
+  },
+  "dependencies": {
+    "vue": "^3.2.31"
+  },
+  "peerDependencies": {
+    "vue": "^3.2.31"
+  }
+}
